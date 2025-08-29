@@ -199,9 +199,9 @@ O aplicativo possui 5 seções principais acessíveis pela barra inferior:
 
 ### Para Melhores Resultados
 
-1. **Capture regularmente**: Idealmente 1-2 vezes por dia
+1. **Capture regularmente**: Idealmente 3 a 4 vezes por dia
 2. **Varie os horários**: Manhã, tarde e noite oferecem perspectivas diferentes
-3. **Seja consistente**: Use por pelo menos uma semana para ver padrões
+3. **Seja consistente**: Use por pelo menos uma semana seguida para ver padrões
 4. **Explore recursos**: Experimente diferentes exercícios e meditações
 
 ### Momentos Ideais para Captura
